@@ -130,8 +130,7 @@ calc.html
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2024-04-24 093222-1.png>) 
-![alt text](<Screenshot 2024-04-24 093235-1.png>)
-
+![alt text](<Screenshot 2024-04-24 233207-1.png>) 
+![alt text](<Screenshot 2024-04-24 233221-1.png>)
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
